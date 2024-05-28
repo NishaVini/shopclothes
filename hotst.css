@@ -1,0 +1,602 @@
+*{
+
+    margin:opx;
+    padding:0px;
+    font-family:varadana;
+    border: border-box;
+    background-color:black;
+}
+
+
+.contener{
+    height:350px;
+    width:100%;
+    background-color:black;
+    display:flex;
+
+}
+
+
+
+
+/* box 1 */
+
+
+
+
+.box1{
+
+    padding:10px;
+    height:900px;
+    width:100px;
+    background-color: black;
+    position:fixed;
+    
+
+
+}
+
+
+.logo{
+    
+    height:20px;
+    width:80px;
+    background-color:black;
+    color:rgb(195, 188, 188);
+    margin-left:30px;
+    margin-top:40px;
+    
+
+}
+
+
+.logo1{
+    
+    height:70px;
+    width:70px;
+    background-image:url(hb.jpeg);
+    background-size:cover;
+    border-radius:50%;
+    color:black;
+}
+
+
+.logo2{
+
+   color:burlywood;
+   background-color:rgb(41, 35, 35);
+   height:23px;
+   width:80px;
+   padding-left:17px;
+   padding-top:5px;
+   margin-top:15px;
+   border-radius:8px;
+
+}
+
+
+
+/* box 2 */
+
+
+
+
+.box2{
+
+    height:320px;
+    width:570px;
+    margin:15px;
+    margin-left:120px;
+    background-image:url(hphoto.jpg);
+    background-size:cover;
+    
+
+}
+
+
+
+
+/* box 3 */
+
+
+
+.logom{
+
+    height:300px;
+    width:300px;
+    background-color:black;
+    margin:20px;
+
+}
+
+
+
+.conlogom1{
+    margin:15px;
+    display:flex;
+    height:35px;
+    width:270px;
+    background-color: black;
+
+
+}
+
+
+.inc1{
+
+
+        height:50px;
+        width:50px;
+        background-image:url(xx.jpg);
+        background-size:cover;
+        border-radius:5px;
+      
+    
+    
+    }
+
+
+    .coninc2{
+       
+        display:flex;
+        background-color:black;
+
+
+    }
+
+
+    .ad{
+       background-color:rgb(219, 170, 45);
+       height:20px;
+       width:35px;
+       border-radius:8%;
+       margin-top:10px;
+       margin-left:10px;
+       font-weight:bold;
+       font-size:17px;
+       padding:3px;
+       padding-left:5px;
+       color:rgb(126, 50, 50);
+
+
+
+    }
+
+
+    .inc{
+        
+        height:27px;
+        width:30px;
+        font-weight:bold;
+       font-size:21px;
+       color:white;
+       margin-top:12px;
+       margin-left:3px;
+       
+
+
+    }
+
+    .hath{
+
+        color:rgb(166, 159, 241);
+        height:20px;
+        width:130px;
+        margin-top:35px;
+        font-size:14px;
+      
+        
+
+    }
+
+
+
+    .logom2{
+
+        color:white;
+        height:20px;
+        width:270px;
+        margin-top:40px;
+        font-size:19px;
+        
+        margin-left:15px;
+        
+
+    }
+
+
+    .logom3{
+
+        color:white;
+        height:30px;
+        width:170px;
+
+        margin-top:140px;
+        margin-left:20px;
+
+        font-size:23px;
+        font-weight:bold;
+       
+        background-color:rgb(62, 58, 58);
+        border-radius:8%;
+
+        padding:10px 35px;
+        
+
+    }
+
+
+
+
+    /* box 4 */
+
+
+
+    
+
+    .sphoto{
+
+        height:630px;
+        width:100%;
+        margin:15px;
+        margin-left:120px;
+        background-color:blackk;
+        background-image:url(hed.webp);
+        background-size:cover;
+      
+
+    }
+
+
+
+
+
+    .picconte{
+        
+        height:320px;
+        width:100%;
+        background-color:black;
+        margin-left:120px;
+        margin-bottom:20px;
+
+    }
+
+
+    .text{
+           height:30px;
+           width:400px;
+           margin:20px;
+          
+           color :white;
+           font-weight:bold;
+           font-size:25px;
+
+
+    }
+
+
+
+    .eightphoto{
+         
+        display:flex;
+        justify-content:space-evenly;
+
+    }
+
+
+
+
+     .pic{
+
+        height:260px;
+        width:200px;
+        background-color:black;
+        border-radius:5px;
+        border:solid 1px rgb(59, 58, 58);
+       
+        transition:linear 0.2s ;
+    } 
+
+
+
+     .pic:hover{
+
+        height:330px;
+        width:280px;
+       
+
+    }
+ 
+
+
+
+
+
+     /* eight   picture */
+
+     .pic1{
+         
+        background-image:url(hp1.webp);
+        background-size:cover;
+     
+
+     }
+
+     .pic2{
+         
+        background-image:url(hp2.webp);
+        background-size:cover;
+
+     }
+
+
+
+     .pic3{
+         
+        background-image:url(hp3.webp);
+        background-size:cover;
+
+     }
+
+
+
+     .pic4{
+         
+        background-image:url(hp4.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic5{
+         
+        background-image:url(hp5.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic6{
+         
+        background-image:url(hp6.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic7{
+         
+        background-image:url(hp7.webp);
+        background-size:cover;
+
+     }
+
+     /* pictur second line */
+
+
+
+
+     
+
+
+     .picd{
+      margin:5px;
+      height:240px;
+      width:200px;
+      background-color:black;
+      border-radius:5px;
+      border:solid 1px rgb(59, 58, 58);
+     
+      transition:linear 0.2s ;
+  } 
+
+
+
+   .picd:hover{
+
+      height:350px;
+      width:300px;
+     
+
+  }
+
+
+
+
+
+
+
+     .pic11{
+         
+        background-image:url(hp11.webp);
+        background-size:cover;
+
+     }
+
+     .pic12{
+         
+        background-image:url(hp12.webp);
+        background-size:cover;
+
+     }
+
+
+
+     .pic13{
+         
+        background-image:url(hp13.webp);
+        background-size:cover;
+
+     }
+
+
+
+     .pic14{
+         
+        background-image:url(hp14.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic15{
+         
+        background-image:url(hp15.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic16{
+         
+        background-image:url(hp16.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic17{
+         
+        background-image:url(hp11.webp);
+        background-size:cover;
+
+     }
+
+
+
+
+
+
+
+     /* pictur third line */
+
+
+     .pic21{
+         
+        background-image:url(hp21.webp);
+        background-size:cover;
+
+     }
+
+     .pic22{
+         
+        background-image:url(hp22.webp);
+        background-size:cover;
+
+     }
+
+
+
+     .pic23{
+         
+        background-image:url(hp23.webp);
+        background-size:cover;
+
+     }
+
+
+
+     .pic24{
+         
+        background-image:url(hp34.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic25{
+         
+        background-image:url(hp25.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic26{
+         
+        background-image:url(hp26.webp);
+        background-size:cover;
+
+     }
+
+
+     .pic27{
+         
+        background-image:url(hp8.webp);
+        background-size:cover;
+
+     }
+
+    
+/* box6 text */
+
+
+
+.box6{
+
+     height:250px;
+     width:100%;
+     background-color:black;
+     margin-top:120px;  
+
+
+}
+
+
+.texts1{
+   color:white;
+
+}
+
+
+
+.texts{
+
+   height:50px;
+   width:250px;
+   margin-right:100px;
+   color:rgb(184, 184, 206);
+
+}
+
+
+
+
+
+.textes{
+
+   display:flex;
+   
+
+}
+
+
+
+.textapp{
+
+
+   width: 130px;
+   height:50px;
+   background-image:url(hh.png);
+    background-size:cover;
+    box-shadow:10px 10px 0px black inset;
+}
+
+
+.textgol{
+
+   
+   width: 160px;
+   height:60px;
+   background-image:url(gl1.png);
+    background-size:cover;
+    box-shadow:10px 10px 0px black inset;
+}
+
+
+.play{
+   margin-top:50px;
+   display:flex;
+
+}
+
